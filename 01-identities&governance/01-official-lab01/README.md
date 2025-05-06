@@ -1,0 +1,4 @@
+---
+source: https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/Instructions/Labs/LAB_01-Manage_Entra_ID_Identities.html#lab-introduction
+---
+
