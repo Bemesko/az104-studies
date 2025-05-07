@@ -17,3 +17,5 @@ source: https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/I
   - Moving subscriptions to an MG
   - Assigning permissions at a particular scope
   - Creating custom roles
+- What is the basic syntax for an azure RBAC JSON file?
+- What are the differences between Azure RBAC roles and Entra ID roles?
